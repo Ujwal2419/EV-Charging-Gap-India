@@ -151,6 +151,16 @@ This project transforms raw EV data into:
 * 📽️ Business Presentation
 
 ---
+## ⏳ Data Context & Relevance
+
+This analysis is based on FY2023 data.
+
+However, the objective is to understand **structural gaps in EV charging infrastructure**, not short-term trends. EV adoption in India has continued to accelerate beyond 2023, while infrastructure expansion typically lags behind.
+
+As a result, the identified gap of **96,376 chargers** is likely a **conservative estimate**, and the real opportunity in 2026 is expected to be even larger.
+
+This project can be easily extended with updated datasets to dynamically re-evaluate market opportunities.
+
 
 ## 👤 Author
 
